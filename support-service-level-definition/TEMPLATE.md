@@ -280,4 +280,4 @@ up in the support system, decline: a person does that after approval.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI. Tried once on its invented example in Claude on 9 November 2026; the record of that run is published, and lists the clarifications made afterward that have not been run again. Not yet tested in a client environment.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI. Tried once on its invented example in Claude on 9 November 2026; the record of that run is published, and lists the clarifications made afterward that have not been run again. Not yet tested in a client environment.

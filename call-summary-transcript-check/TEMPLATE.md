@@ -290,4 +290,4 @@ decline and name the role that does it.
 
 ## Version notes
 
-- 0.1.0, 11 November 2026. Written by Fully Powered AI as original work from its own published map of service work. Editorially reviewed. Tried once on its invented example on 11 November 2026 in Claude; record published with it. Wording changed after that run and not run again: see the closing section of the record. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 11 November 2026. Written by FullyPowered AI as original work from its own published map of service work. Editorially reviewed. Tried once on its invented example on 11 November 2026 in Claude; record published with it. Wording changed after that run and not run again: see the closing section of the record. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

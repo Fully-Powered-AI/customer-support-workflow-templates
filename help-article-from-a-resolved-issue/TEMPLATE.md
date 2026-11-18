@@ -304,4 +304,4 @@ completed" line: what you could not complete and what you need, or
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026, in one run that was not blind: the output of the example had been seen before the run's own output was written. Small clarifications made to the procedure, the pasted instructions and the example after that run have not been run again; the trial record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026, in one run that was not blind: the output of the example had been seen before the run's own output was written. Small clarifications made to the procedure, the pasted instructions and the example after that run have not been run again; the trial record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

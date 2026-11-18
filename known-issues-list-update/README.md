@@ -49,11 +49,11 @@ Tell it the column headers your support system and issue tracker export, or expo
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template as original work. It was editorially reviewed on 12 November 2026. It was tried on its invented example in Claude on 12 November 2026, and the record of that run is published with the template. After an independent review the same day, the instructions were corrected and the template was run again on the example. After a second review that day, small corrections were made and it was run once more on the example; the published record is of that third run, made by the session that edited the template, so it is not a blind test. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template as original work. It was editorially reviewed on 12 November 2026. It was tried on its invented example in Claude on 12 November 2026, and the record of that run is published with the template. After an independent review the same day, the instructions were corrected and the template was run again on the example. After a second review that day, small corrections were made and it was run once more on the example; the published record is of that third run, made by the session that edited the template, so it is not a blind test. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past confirmation and a past release your support lead already knows, with hard cases written in advance: a workaround tested on only some versions, a case on a version engineering did not list, a case on a platform engineering says is not affected, a fix the notes describe as working "for most", a fixed line with no reference, an export with different column headers. The support lead checks every copied version and workaround step against the engineering note before anyone relies on the entry. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 12 November 2026.
 - Package format checked by script on every release.
@@ -84,4 +84,4 @@ Testing in your environment means running it on a past confirmation and a past r
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

@@ -312,4 +312,4 @@ leave a promise off or change a reading after seeing it, decline.
 
 ## Version notes
 
-- 0.1.0, 11 November 2026. Written by Fully Powered AI from its own published map of the work, with credit to the call-agent commitment tracker in CALLE-AI/awesome-phone-call-agents (MIT) for the way a promise is sorted by its deadline. Tried on its invented example in Claude on 11 November 2026; the record is published with it. Not yet tested in a client environment.
+- 0.1.0, 11 November 2026. Written by FullyPowered AI from its own published map of the work, with credit to the call-agent commitment tracker in CALLE-AI/awesome-phone-call-agents (MIT) for the way a promise is sorted by its deadline. Tried on its invented example in Claude on 11 November 2026; the record is published with it. Not yet tested in a client environment.

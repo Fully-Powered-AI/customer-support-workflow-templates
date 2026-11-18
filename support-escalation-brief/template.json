@@ -25,7 +25,7 @@
     "customer-reply-drafting"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -41,7 +41,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own method for turning one ticket's history into a hand-over brief: a fixed history export with a stop on any heading or entry type that does not match, a dated timeline that keeps only entries carrying a fact, an action or a promise, every claim labelled as stated by the customer, confirmed by the team or not verified, an evidence checklist, fixes tried, the workaround and its limits, promises made to the customer, conflicts left open, a check against the escalation policy's criteria as written, and a decision needed that the support lead confirms."
+      "title": "FullyPowered AI's own method for turning one ticket's history into a hand-over brief: a fixed history export with a stop on any heading or entry type that does not match, a dated timeline that keeps only entries carrying a fact, an action or a promise, every claim labelled as stated by the customer, confirmed by the team or not verified, an evidence checklist, fixes tried, the workaround and its limits, promises made to the customer, conflicts left open, a check against the escalation policy's criteria as written, and a decision needed that the support lead confirms."
     }
   ]
 }

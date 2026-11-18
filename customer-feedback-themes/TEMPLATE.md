@@ -322,4 +322,4 @@ support lead may overrule any line in their own name.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Editorially reviewed. Tried on its invented example in Claude on 10 November 2026 in two runs: the instructions were revised after the first, following review, and the second, made by the model that made those revisions, is the run recorded and published with it. Not run again after any later edits. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example in Claude on 10 November 2026 in two runs: the instructions were revised after the first, following review, and the second, made by the model that made those revisions, is the run recorded and published with it. Not run again after any later edits. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

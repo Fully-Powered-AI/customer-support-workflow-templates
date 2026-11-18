@@ -24,7 +24,7 @@
     "support-ticket-triage"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -40,7 +40,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own method, written for this template: sorting each ticket a customer could have settled alone by what the agent had to do (answer by hand, send a link, or send a link and correct it), reading the search log's empty searches against the articles' titles and tags, ranking the gaps by the tickets an article could have saved, and leaving every decision to the support lead."
+      "title": "FullyPowered AI's own method, written for this template: sorting each ticket a customer could have settled alone by what the agent had to do (answer by hand, send a link, or send a link and correct it), reading the search log's empty searches against the articles' titles and tags, ranking the gaps by the tickets an article could have saved, and leaving every decision to the support lead."
     }
   ]
 }
