@@ -1,0 +1,47 @@
+{
+  "id": "customer-review-themes-summary",
+  "name": "Customer review themes summary",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Once a month the owner or marketing lead gets one summary of the month's public reviews: counts by site and rating that tie to the export, recurring themes with their review IDs and a quoted line, unanswered reviews oldest first, and the reviews a named person must see first. It drafts no reply.",
+  "directory": "https://fullypowered.ai/workflows/customer-review-themes-summary/",
+  "primary_function": "functions/customer-support-and-service",
+  "functions": [
+    "functions/customer-support-and-service",
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/hospitality",
+    "industries/ecommerce-and-retail",
+    "industries/consumer-brands"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "customer-feedback-themes",
+    "public-guest-review-reply",
+    "brand-mentions-review"
+  ],
+  "evidence": {
+    "written_by": "FullyPowered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-19",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-19",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "FullyPowered AI's own original method for a monthly summary of a business's public customer reviews."
+    }
+  ]
+}

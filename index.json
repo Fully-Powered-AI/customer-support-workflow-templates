@@ -36,6 +36,14 @@
       "directory": "https://fullypowered.ai/workflows/customer-reply-drafting/"
     },
     {
+      "id": "customer-review-themes-summary",
+      "name": "Customer review themes summary",
+      "version": "0.1.0",
+      "summary": "Once a month the owner or marketing lead gets one summary of the month's public reviews: counts by site and rating that tie to the export, recurring themes with their review IDs and a quoted line, unanswered reviews oldest first, and the reviews a named person must see first. It drafts no reply.",
+      "path": "customer-review-themes-summary/",
+      "directory": "https://fullypowered.ai/workflows/customer-review-themes-summary/"
+    },
+    {
       "id": "customer-satisfaction-detractor-follow-up",
       "name": "Customer satisfaction detractor follow-up",
       "version": "0.1.0",
