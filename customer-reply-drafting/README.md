@@ -1,10 +1,17 @@
 # Customer reply drafting
 
-Every customer gets the reply your best person would write. Hand over the customer's message, your tone guide and your approved answers, and get back a draft in your voice where every statement and every promise traces to something you approved. A person on your team reads it, edits it and sends it.
+Get a draft reply in your voice where every statement and promise traces to an answer you approved. A person on your team reads, edits and sends it.
 
-*Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-reply-drafting/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Customer reply drafting on our website](https://fullypowered.ai/workflows/customer-reply-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-reply-drafting&from=gh-customer-reply-drafting) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/customer-reply-drafting/?from=gh-customer-reply-drafting)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-reply-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-reply-drafting&from=gh-customer-reply-drafting)*
 
 ## The outcome
 
@@ -36,13 +43,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/), for the everyday queue and the hard message alike.
-- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/), where one careless promise costs a renewal.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where billing, bugs and feature questions arrive in the same message.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), for orders, returns and delivery problems under a published policy.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where the reply comes from the person who holds the relationship.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where a guest's complaint deserves a personal answer the same day.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), which already have the policies and want every reply to follow them.
+- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-reply-drafting&from=gh-customer-reply-drafting), for the everyday queue and the hard message alike.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-reply-drafting&from=gh-customer-reply-drafting), where one careless promise costs a renewal.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-reply-drafting&from=gh-customer-reply-drafting), where billing, bugs and feature questions arrive in the same message.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-reply-drafting&from=gh-customer-reply-drafting), for orders, returns and delivery problems under a published policy.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-reply-drafting&from=gh-customer-reply-drafting), where the reply comes from the person who holds the relationship.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-reply-drafting&from=gh-customer-reply-drafting), where a guest's complaint deserves a personal answer the same day.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-reply-drafting&from=gh-customer-reply-drafting), which already have the policies and want every reply to follow them.
 
 ## What has to change for your company
 
@@ -52,7 +59,7 @@ Put your approved answers in one place, each with a review date and an owner; th
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, and the record of those runs is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on past messages your team has already answered, plus hard cases written in advance, each with its expected behavior: a question no approved answer covers, a request above the sender's limit, a customer who mentions leaving. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on past messages your team has already answered, plus hard cases written in advance, each with its expected behavior: a question no approved answer covers, a request above the sender's limit, a customer who mentions leaving. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-reply-drafting&from=gh-customer-reply-drafting) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-reply-drafting&from=gh-customer-reply-drafting) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -79,11 +86,11 @@ Testing in your environment means running it on past messages your team has alre
 
 ## Related workflow templates
 
-- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
-- [Inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/)
-- [Account handoff](https://fullypowered.ai/workflows/account-handoff/)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-reply-drafting&from=gh-customer-reply-drafting)
+- [Inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-reply-drafting&from=gh-customer-reply-drafting)
+- [Account handoff](https://fullypowered.ai/workflows/account-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-reply-drafting&from=gh-customer-reply-drafting)
 - [Support ticket triage](../support-ticket-triage/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-reply-drafting&from=gh-customer-reply-drafting).

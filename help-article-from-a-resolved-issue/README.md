@@ -1,10 +1,17 @@
 # Help article from a resolved issue
 
-Turn every answer your team works out once into an article the next customer finds on their own. Hand over a resolved ticket and your list of articles; get back a draft in your customers' words, with their details removed and every step traced to the ticket. Your knowledge-base owner decides what goes live.
+Turn a resolved support ticket into a draft help article with customer details removed and every step traced. A knowledge-base owner decides.
 
-*Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/help-article-from-a-resolved-issue/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Help article from a resolved issue on our website](https://fullypowered.ai/workflows/help-article-from-a-resolved-issue/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-help-article-from-a-resolved-issue&from=gh-help-article-from-a-resolved-issue) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/help-article-from-a-resolved-issue/?from=gh-help-article-from-a-resolved-issue)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/help-article-from-a-resolved-issue/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-help-article-from-a-resolved-issue&from=gh-help-article-from-a-resolved-issue)*
 
 ## The outcome
 
@@ -39,12 +46,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/), where the same question arriving three times means an article is missing.
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), where the help centre is writing your customers go looking for.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where settings, error messages and workarounds change with every release.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), for orders, deliveries and accounts that customers would rather sort out themselves.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where client portals and billing questions repeat across every client.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where years of answers sit in closed tickets instead of the help centre.
+- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-help-article-from-a-resolved-issue&from=gh-help-article-from-a-resolved-issue), where the same question arriving three times means an article is missing.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-help-article-from-a-resolved-issue&from=gh-help-article-from-a-resolved-issue), where the help centre is writing your customers go looking for.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-help-article-from-a-resolved-issue&from=gh-help-article-from-a-resolved-issue), where settings, error messages and workarounds change with every release.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-help-article-from-a-resolved-issue&from=gh-help-article-from-a-resolved-issue), for orders, deliveries and accounts that customers would rather sort out themselves.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-help-article-from-a-resolved-issue&from=gh-help-article-from-a-resolved-issue), where client portals and billing questions repeat across every client.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-help-article-from-a-resolved-issue&from=gh-help-article-from-a-resolved-issue), where years of answers sit in closed tickets instead of the help centre.
 
 ## What has to change for your company
 
@@ -54,7 +61,7 @@ Write down your help-centre style, even a short one: how menu paths look, the cl
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, and the record of that run is published with it. The run was not blind: the example's output had been seen before the run's own output was written. Small clarifications made after the run, listed in the record, have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on tickets your team has already turned into articles, plus hard cases written in advance, each with its expected behavior: a fix only staff could apply, a step that did not work for the customer on its own, an error message that contains the customer's file name, an issue that touches exposed personal data. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on tickets your team has already turned into articles, plus hard cases written in advance, each with its expected behavior: a fix only staff could apply, a step that did not work for the customer on its own, an error message that contains the customer's file name, an issue that touches exposed personal data. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-help-article-from-a-resolved-issue&from=gh-help-article-from-a-resolved-issue) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-help-article-from-a-resolved-issue&from=gh-help-article-from-a-resolved-issue) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -83,8 +90,8 @@ Testing in your environment means running it on tickets your team has already tu
 
 - [Customer reply drafting](../customer-reply-drafting/)
 - [Support ticket triage](../support-ticket-triage/)
-- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/)
+- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-help-article-from-a-resolved-issue&from=gh-help-article-from-a-resolved-issue)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-help-article-from-a-resolved-issue&from=gh-help-article-from-a-resolved-issue).

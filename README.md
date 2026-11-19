@@ -1,14 +1,57 @@
-# FullyPowered Workflow Templates: Customer Support
+# AI workflow templates for customer support teams
 
-Every customer answered the way your best agent would answer. These workflow templates take the replies and triage that fill a support queue and give an AI assistant a precise way to prepare them from your own approved answers, so your people send faster and escalate sooner.
+FullyPowered Workflow Templates for support and service teams turn the AI your company already pays for into a team that knows how the work is done: a support lead with the stale-ticket sweep and its weekly sheet prepared, a queue manager with the morning's tickets sorted, prioritized and routed, a customer care team with every complaint and refund request set out for approval. 14 workflow templates, made to be customized and deployed. All plain Markdown, all free, MIT license.
 
-**These are templates, made to be customized and deployed.** They are examples and a starting point, not a complete list: copy one, change it to fit how your team does the work, and run it in the AI you already pay for.
+We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
-**FullyPowered AI customizes and builds AI workflows that run in ChatGPT, Claude, Copilot and Gemini**, including ones that run several steps. [More examples for customer support and service teams](https://fullypowered.ai/functions/customer-support-and-service/?from=gh-customer-support) · [Have one built for your team](https://fullypowered.ai/pricing/?from=gh-customer-support)
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for support and service teams](https://fullypowered.ai/functions/customer-support-and-service/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-readme&from=gh-customer-support-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-readme&from=gh-customer-support-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-This repository holds 14 workflow templates for support and service teams. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+**Who this is for**
 
-## The workflow templates
+- Owners and CEOs who want every customer answered the way their best person would answer.
+- Support and service leads who want something the team can run this week.
+- The agent who handles the customer, gets a precise draft to edit and still decides.
+
+**What these are for**
+
+- **Your best way of doing it, for the whole team.** One piece of work, written down precisely enough that an assistant prepares it the same way every time.
+- **Work you can check.** Every template says what it needs, what it produces, what it checked and what it could not.
+- **A person decides.** Anything that sends, posts, pays or changes a record waits for someone to approve it.
+- **Tied into your business systems.** A workflow can be designed to pull from the systems your company already runs, and even push data back into them, with guardrails and a person approving. [Browse the Connectors Directory](https://fullypowered.ai/connectors/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-readme&from=gh-customer-support-readme).
+- **Free, open and portable.** MIT-licensed plain instructions that run in the assistant or agent your team already uses: ChatGPT, Claude, Claude Code, Claude Cowork, Codex, Copilot, Gemini, Grok, Perplexity.
+
+**Quick start**
+
+1. **Draft a customer reply from your own approved answers.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat, then paste in a real customer message, your tone guide and your approved answers. Read the draft, change it and send it yourself.
+
+   ```text
+   You prepare one draft reply to one customer message for the person who will send it. You never send anything, issue a refund or credit, or change a record. Use only the approved answers I paste below. Number every point the customer raised. Mark each question as answered, held (nothing covers it), declined, or for a named person to decide. Mark each claim the customer makes as confirmed or not checkable. Write the reply in my tone guide, answer first, with a day and date on every promise. Never offer a refund, credit or exception I have not said I may give. Then list what to do before sending, each promise with the rule that allows it, and what you left out and why. Here are the customer's message, my tone guide, my approved answers and my limits: [paste them here]. A person reads and decides.
+   ```
+
+2. Read what comes back. It marks what it checked and what is left for you. What comes out: a reply to a double charge:
+
+   ```text
+   CUSTOMER REPLY DRAFT: Priya, Studio M, ticket 4471
+   Status: Draft for Jo. Not sent. Review needed first: Ren, support lead,
+   under A5, because Priya writes that she will "be looking at other
+   options".
+   Channel: email. Situation: billing issue, with a complaint, two product
+   questions and a request above the sender's limit. Tone: TG-2; rules 2,
+   3 and 5 lead (the answer first, one specific apology, day-and-date
+   dates).
+   Sources: TG-2, 1 September 2026; AA-7, reviewed 20 October 2026, inside
+   the 90-day review period; account facts checked by Jo, Thursday
+   5 November 2026.
+   ```
+
+3. Stop there. You will know if this is for you. When you want it fitted to your company, or built into your agents, [that is what we do](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-readme&from=gh-customer-support-readme).
+
+A person on your team starts each workflow, supplies the inputs and decides; the template prepares and checks, and sends nothing itself.
+
+These are examples and a starting point, made to be changed to fit how your team really works. Work that is not listed here can be built too, as one step or many.
+
+## The customer support workflow templates here today
 
 - **[Call summary check against the transcript](call-summary-transcript-check/)**: Before anyone acts on the summary of a service call, your quality lead sees every amount, date, outcome and statement in it that the transcript does not back, each with the line and time to check, and what the summary left out. It changes no record; the reviewer decides what is corrected.
 - **[Complaint and refund request handling](complaint-and-refund-request-handling/)**: A customer complains or asks for money back, and whoever handles it gets your policy's answer: the order matched, each condition checked, the amount worked out, any refund set out for a named person to approve, and a reply ready to edit and send.
@@ -43,10 +86,10 @@ Each folder says exactly what was checked and when: who wrote it, that its sourc
 
 ## More workflow templates
 
-The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-readme&from=gh-customer-support-readme) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
-For the work these templates come from, by team and by task, see [AI workflow examples for customer support and service teams](https://fullypowered.ai/functions/customer-support-and-service/).
+For the work these templates come from, by team and by task, see [AI workflow examples for customer support and service teams](https://fullypowered.ai/functions/customer-support-and-service/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-readme&from=gh-customer-support-readme).
 
 ## Licence and credits
 
-MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/).
+MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-readme&from=gh-customer-support-readme).

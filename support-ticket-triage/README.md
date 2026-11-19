@@ -1,10 +1,17 @@
 # Support ticket triage
 
-Your queue manager opens the morning’s tickets already sorted: each one with a category, a priority and a route, and the reason for all three in a line. The tickets that cannot wait sit at the top, stopped for a person to decide.
+Open the morning queue already sorted: category, priority and route with the reason, and urgent tickets stopped for a person to decide.
 
-*Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/support-ticket-triage/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Support ticket triage on our website](https://fullypowered.ai/workflows/support-ticket-triage/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-ticket-triage&from=gh-support-ticket-triage) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/support-ticket-triage/?from=gh-support-ticket-triage)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/support-ticket-triage/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-ticket-triage&from=gh-support-ticket-triage)*
 
 ## The outcome
 
@@ -40,10 +47,10 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/): the first read of the queue, done the same way on every shift.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): faults, integrations and account questions arrive mixed together, and one release can fill the queue with the same problem.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/): order, delivery, refund and payment tickets arrive in volume, and a checkout fault hides among them.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): the queue has outgrown the one person who used to read every ticket.
+- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-ticket-triage&from=gh-support-ticket-triage): the first read of the queue, done the same way on every shift.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-ticket-triage&from=gh-support-ticket-triage): faults, integrations and account questions arrive mixed together, and one release can fill the queue with the same problem.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-ticket-triage&from=gh-support-ticket-triage): order, delivery, refund and payment tickets arrive in volume, and a checkout fault hides among them.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-ticket-triage&from=gh-support-ticket-triage): the queue has outgrown the one person who used to read every ticket.
 
 ## What has to change for your company
 
@@ -57,7 +64,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example on 9 November 2026 in four runs; the record of the last is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past day’s queue your queue manager already knows, plus hard cases written in advance: a security report worded as a how-to question, the same fault in three tickets, a customer writing twice, a ticket your rules do not cover. The queue manager checks every line against the ticket. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past day’s queue your queue manager already knows, plus hard cases written in advance: a security report worded as a how-to question, the same fault in three tickets, a customer writing twice, a ticket your rules do not cover. The queue manager checks every line against the ticket. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-ticket-triage&from=gh-support-ticket-triage) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-ticket-triage&from=gh-support-ticket-triage) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -84,10 +91,10 @@ Testing in your environment means running it on a past day’s queue your queue 
 
 ## Related workflow templates
 
-- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-ticket-triage&from=gh-support-ticket-triage)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-ticket-triage&from=gh-support-ticket-triage)
 - [Customer reply drafting](../customer-reply-drafting/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-ticket-triage&from=gh-support-ticket-triage).

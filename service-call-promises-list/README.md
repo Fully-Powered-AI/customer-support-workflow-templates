@@ -1,10 +1,17 @@
 # Follow-ups promised on service calls
 
-After service calls, the contact-center team leader gets every follow-up the agent promised, each quoted from its transcript line, with the deadline as said, any condition, who owns it and the record that matches it. Nothing is booked, assigned or sent, and no customer is contacted.
+List every follow-up an agent promised on a service call, quoted from the transcript, with the deadline as said, any condition, the owner and the record.
 
-*Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/service-call-promises-list/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Follow-ups promised on service calls on our website](https://fullypowered.ai/workflows/service-call-promises-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-service-call-promises-list&from=gh-service-call-promises-list) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/service-call-promises-list/?from=gh-service-call-promises-list)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/service-call-promises-list/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-service-call-promises-list&from=gh-service-call-promises-list)*
 
 ## The outcome
 
@@ -46,14 +53,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/): the contact center's check on what its agents have promised, before the promises turn into repeat calls.
-- [Insurance](https://fullypowered.ai/industries/insurance/): claims and policy lines where an agent promises a callback, a document or a decision by a date the customer remembers.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/): replacements, refunds and redeliveries promised on the phone and carried out by other teams.
-- [Energy](https://fullypowered.ai/industries/energy/): engineer visits, meter readings and bill corrections promised on a call and owned by field and billing teams.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): the phone queue has grown past the point where the team leader hears enough calls to know what is being promised.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): long-standing habits of saying "we'll sort it" that nobody owns.
+- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-service-call-promises-list&from=gh-service-call-promises-list): the contact center's check on what its agents have promised, before the promises turn into repeat calls.
+- [Insurance](https://fullypowered.ai/industries/insurance/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-service-call-promises-list&from=gh-service-call-promises-list): claims and policy lines where an agent promises a callback, a document or a decision by a date the customer remembers.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-service-call-promises-list&from=gh-service-call-promises-list): replacements, refunds and redeliveries promised on the phone and carried out by other teams.
+- [Energy](https://fullypowered.ai/industries/energy/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-service-call-promises-list&from=gh-service-call-promises-list): engineer visits, meter readings and bill corrections promised on a call and owned by field and billing teams.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-service-call-promises-list&from=gh-service-call-promises-list): the phone queue has grown past the point where the team leader hears enough calls to know what is being promised.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-service-call-promises-list&from=gh-service-call-promises-list): long-standing habits of saying "we'll sort it" that nobody owns.
 
-It is separate from the [account commitments check](https://fullypowered.ai/workflows/account-commitments-check/), which lists what both sides promised across an account's meetings and emails, and from the [stale ticket sweep](https://fullypowered.ai/workflows/stale-ticket-sweep/), which looks at the whole queue of open tickets. When one follow-up needs a specialist, the [support escalation brief](https://fullypowered.ai/workflows/support-escalation-brief/) carries it on.
+It is separate from the [account commitments check](https://fullypowered.ai/workflows/account-commitments-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-service-call-promises-list&from=gh-service-call-promises-list), which lists what both sides promised across an account's meetings and emails, and from the [stale ticket sweep](https://fullypowered.ai/workflows/stale-ticket-sweep/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-service-call-promises-list&from=gh-service-call-promises-list), which looks at the whole queue of open tickets. When one follow-up needs a specialist, the [support escalation brief](https://fullypowered.ai/workflows/support-escalation-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-service-call-promises-list&from=gh-service-call-promises-list) carries it on.
 
 ## What has to change for your company
 
@@ -69,7 +76,7 @@ It is separate from the [account commitments check](https://fullypowered.ai/work
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, and the record of that run is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on calls your team leader has already listened to, plus hard cases written in advance, each with its expected result: a promise with vague timing, a callback booked for a later day than the one promised, a line from a speaker the transcription could not name, a promise the agent took back two lines later, a credit above the agent's limit. The team leader checks every line against the transcript before anyone relies on the list. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on calls your team leader has already listened to, plus hard cases written in advance, each with its expected result: a promise with vague timing, a callback booked for a later day than the one promised, a line from a speaker the transcription could not name, a promise the agent took back two lines later, a credit above the agent's limit. The team leader checks every line against the transcript before anyone relies on the list. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-service-call-promises-list&from=gh-service-call-promises-list) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-service-call-promises-list&from=gh-service-call-promises-list) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -98,8 +105,8 @@ Testing in your environment means running it on calls your team leader has alrea
 
 - [Stale ticket sweep](../stale-ticket-sweep/)
 - [Support escalation brief](../support-escalation-brief/)
-- [Account commitments check](https://fullypowered.ai/workflows/account-commitments-check/)
+- [Account commitments check](https://fullypowered.ai/workflows/account-commitments-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-service-call-promises-list&from=gh-service-call-promises-list)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-service-call-promises-list&from=gh-service-call-promises-list).

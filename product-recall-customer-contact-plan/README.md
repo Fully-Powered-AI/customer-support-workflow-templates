@@ -1,10 +1,17 @@
 # Product recall customer contact plan
 
-Once your business has issued a recall, the customer care lead gets the contact plan: affected customers from the order export, the approved notice word for word, drafts that offer only the remedies you run, and a tracker that counts a customer done only when the item is back or repaired.
+Turn an approved recall notice and your order export into a customer list, drafts and a tracker. A person on your care team makes every contact.
 
-*Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/product-recall-customer-contact-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Product recall customer contact plan on our website](https://fullypowered.ai/workflows/product-recall-customer-contact-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-product-recall-customer-contact-plan&from=gh-product-recall-customer-contact-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/product-recall-customer-contact-plan/?from=gh-product-recall-customer-contact-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/product-recall-customer-contact-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-product-recall-customer-contact-plan&from=gh-product-recall-customer-contact-plan)*
 
 ## The outcome
 
@@ -40,13 +47,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/), which carries the notice to customers and keeps the record of every contact.
-- [Quality management](https://fullypowered.ai/functions/quality-management/), which owns the corrective action and needs to know how many units have actually come back.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), selling direct to households that expect a clear, calm notice.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where the order export already holds who bought what and how to reach them.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where affected units are traced by lot, batch or serial number.
-- [Hardware and physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/), where a fix is often a repair or a part swap rather than a refund.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), with an order history long enough that a recall reaches customers from months back.
+- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-product-recall-customer-contact-plan&from=gh-product-recall-customer-contact-plan), which carries the notice to customers and keeps the record of every contact.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-product-recall-customer-contact-plan&from=gh-product-recall-customer-contact-plan), which owns the corrective action and needs to know how many units have actually come back.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-product-recall-customer-contact-plan&from=gh-product-recall-customer-contact-plan), selling direct to households that expect a clear, calm notice.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-product-recall-customer-contact-plan&from=gh-product-recall-customer-contact-plan), where the order export already holds who bought what and how to reach them.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-product-recall-customer-contact-plan&from=gh-product-recall-customer-contact-plan), where affected units are traced by lot, batch or serial number.
+- [Hardware and physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-product-recall-customer-contact-plan&from=gh-product-recall-customer-contact-plan), where a fix is often a repair or a part swap rather than a refund.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-product-recall-customer-contact-plan&from=gh-product-recall-customer-contact-plan), with an order history long enough that a recall reaches customers from months back.
 
 ## What has to change for your company
 
@@ -56,7 +63,7 @@ Write the recall record down first: the identifiers, the notice exactly as appro
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in four runs: the instructions and the example were revised after each of the first three, and the fourth, on the current version, gave the same customer list, statuses, counts and follow-up as the example; the record is published with it, and no edits to the instructions or the example have been made since that run. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past recall or a rehearsal with your own order data, plus hard cases written in advance: a row with a blank batch number, a unit received with nobody's name against it, a customer who asks about damage, a request to offer a remedy you do not run. The care lead checks every count against the logs before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on a past recall or a rehearsal with your own order data, plus hard cases written in advance: a row with a blank batch number, a unit received with nobody's name against it, a customer who asks about damage, a request to offer a remedy you do not run. The care lead checks every count against the logs before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-product-recall-customer-contact-plan&from=gh-product-recall-customer-contact-plan) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-product-recall-customer-contact-plan&from=gh-product-recall-customer-contact-plan) shows the record.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -89,4 +96,4 @@ Testing in your environment means running it on a past recall or a rehearsal wit
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-product-recall-customer-contact-plan&from=gh-product-recall-customer-contact-plan).

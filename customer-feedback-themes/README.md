@@ -1,10 +1,17 @@
 # Customer feedback themes
 
-Each month your support lead sees what customers keep telling you: tickets, disputes, reviews and survey comments grouped into themes with counts and quotations, the three issues most worth fixing with a proposed fix and owner, and a note for customers once a fix ships. A person decides every fix.
+Each month, turn tickets, disputes, reviews and survey comments into counted themes and three issues to fix. A person decides every fix.
 
-*Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-feedback-themes/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Customer feedback themes on our website](https://fullypowered.ai/workflows/customer-feedback-themes/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-feedback-themes&from=gh-customer-feedback-themes) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/customer-feedback-themes/?from=gh-customer-feedback-themes)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-feedback-themes/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-feedback-themes&from=gh-customer-feedback-themes)*
 
 ## The outcome
 
@@ -44,14 +51,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/): the team that hears every complaint first and is best placed to say which ones keep coming back.
-- [Product management](https://fullypowered.ai/functions/product-management/): the themes about the product itself become evidence for what to change next.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/): delivery, packaging, checkout and refund feedback arrives in volume across tickets, reviews and card disputes.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/): reviews and surveys show what buyers think of the product as well as the service.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): tickets, app reviews and survey comments point to the same faults in different words.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/): guest reviews, complaints and post-stay surveys repeat the same few problems.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): the business has outgrown the one person who used to read every complaint.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): the same issues have quietly come back for years and nobody has counted them.
+- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-feedback-themes&from=gh-customer-feedback-themes): the team that hears every complaint first and is best placed to say which ones keep coming back.
+- [Product management](https://fullypowered.ai/functions/product-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-feedback-themes&from=gh-customer-feedback-themes): the themes about the product itself become evidence for what to change next.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-feedback-themes&from=gh-customer-feedback-themes): delivery, packaging, checkout and refund feedback arrives in volume across tickets, reviews and card disputes.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-feedback-themes&from=gh-customer-feedback-themes): reviews and surveys show what buyers think of the product as well as the service.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-feedback-themes&from=gh-customer-feedback-themes): tickets, app reviews and survey comments point to the same faults in different words.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-feedback-themes&from=gh-customer-feedback-themes): guest reviews, complaints and post-stay surveys repeat the same few problems.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-feedback-themes&from=gh-customer-feedback-themes): the business has outgrown the one person who used to read every complaint.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-feedback-themes&from=gh-customer-feedback-themes): the same issues have quietly come back for years and nobody has counted them.
 
 ## What has to change for your company
 
@@ -66,7 +73,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in two runs; the record of the second, made on the instructions as revised after the first, is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past month your support lead remembers well, plus hard cases written in advance: one customer writing five times about the same thing, a review that reports an injury, a fix that shipped halfway through the month, a column header the template does not know. The support lead checks every count against the export before anyone decides a fix. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past month your support lead remembers well, plus hard cases written in advance: one customer writing five times about the same thing, a review that reports an injury, a fix that shipped halfway through the month, a column header the template does not know. The support lead checks every count against the export before anyone decides a fix. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-feedback-themes&from=gh-customer-feedback-themes) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-feedback-themes&from=gh-customer-feedback-themes) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -94,9 +101,9 @@ Testing in your environment means running it on a past month your support lead r
 ## Related workflow templates
 
 - [Support ticket triage](../support-ticket-triage/)
-- [Churn risk and save plan](https://fullypowered.ai/workflows/churn-risk-and-save-plan/)
-- [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/)
+- [Churn risk and save plan](https://fullypowered.ai/workflows/churn-risk-and-save-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-feedback-themes&from=gh-customer-feedback-themes)
+- [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-feedback-themes&from=gh-customer-feedback-themes)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-feedback-themes&from=gh-customer-feedback-themes).

@@ -1,10 +1,17 @@
 # Support escalation brief
 
-When a support case must move to a specialist or manager, the support lead gets one brief: the customer's impact, a dated timeline from the ticket history, the evidence, the fixes tried, the workaround in place and the decision needed. Nothing goes to the customer.
+When a case must move to a specialist or manager, get one brief with impact, timeline, evidence and the decision needed. Nothing goes to the customer.
 
-*Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/support-escalation-brief/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Support escalation brief on our website](https://fullypowered.ai/workflows/support-escalation-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-escalation-brief&from=gh-support-escalation-brief) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/support-escalation-brief/?from=gh-support-escalation-brief)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/support-escalation-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-escalation-brief&from=gh-support-escalation-brief)*
 
 ## The outcome
 
@@ -39,13 +46,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/): the hand-over that decides whether a specialist starts from the facts or from scratch.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): faults reach engineering with a thread, a screenshot and a guess about the cause.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/): order, delivery and payment problems move to operations or a supplier contact.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): a client's unresolved request goes to the partner or practice manager who owns the relationship.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/): a booking, supply or billing problem reaches the manager with the story of what the guest or customer has already been told.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): the front line now outnumbers the specialists, and every escalation costs them time unless the brief is complete.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): hand-overs have been done by habit and by forwarding emails, and what the owner receives varies by who sent it.
+- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-escalation-brief&from=gh-support-escalation-brief): the hand-over that decides whether a specialist starts from the facts or from scratch.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-escalation-brief&from=gh-support-escalation-brief): faults reach engineering with a thread, a screenshot and a guess about the cause.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-escalation-brief&from=gh-support-escalation-brief): order, delivery and payment problems move to operations or a supplier contact.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-escalation-brief&from=gh-support-escalation-brief): a client's unresolved request goes to the partner or practice manager who owns the relationship.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-escalation-brief&from=gh-support-escalation-brief): a booking, supply or billing problem reaches the manager with the story of what the guest or customer has already been told.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-escalation-brief&from=gh-support-escalation-brief): the front line now outnumbers the specialists, and every escalation costs them time unless the brief is complete.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-escalation-brief&from=gh-support-escalation-brief): hand-overs have been done by habit and by forwarding emails, and what the owner receives varies by who sent it.
 
 ## What has to change for your company
 
@@ -60,7 +67,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a few past escalations your support lead remembers well, plus hard cases written in advance, each with the expected result: an export whose headings do not match, a customer claim the team never confirmed, two accounts of the same event, a case that meets the criteria for two destinations, a thread that holds a password. The support lead checks every date and statement against the ticket before anyone relies on the brief. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a few past escalations your support lead remembers well, plus hard cases written in advance, each with the expected result: an export whose headings do not match, a customer claim the team never confirmed, two accounts of the same event, a case that meets the criteria for two destinations, a thread that holds a password. The support lead checks every date and statement against the ticket before anyone relies on the brief. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-escalation-brief&from=gh-support-escalation-brief) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-escalation-brief&from=gh-support-escalation-brief) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -93,4 +100,4 @@ Testing in your environment means running it on a few past escalations your supp
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-support-escalation-brief&from=gh-support-escalation-brief).

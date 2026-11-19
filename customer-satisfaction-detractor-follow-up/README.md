@@ -1,10 +1,17 @@
 # Customer satisfaction detractor follow-up
 
-Every week your support lead gets each low satisfaction or recommendation score with the ticket behind it: the customer's own words, what went wrong as far as the ticket shows, a suggested owner and a draft message, plus the trend and a warning wherever the numbers are too thin to read. A person sends every message.
+Each week, every low satisfaction score joined to its ticket, with a suggested owner and a draft message. A person sends every message.
 
-*Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-satisfaction-detractor-follow-up/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Customer satisfaction detractor follow-up on our website](https://fullypowered.ai/workflows/customer-satisfaction-detractor-follow-up/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-satisfaction-detractor-follow-up&from=gh-customer-satisfaction-detractor-follo) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/customer-satisfaction-detractor-follow-up/?from=gh-customer-satisfaction-detractor-follo)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-satisfaction-detractor-follow-up/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-satisfaction-detractor-follow-up&from=gh-customer-satisfaction-detractor-follo)*
 
 ## The outcome
 
@@ -47,13 +54,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/): the team that sends the surveys and is first to see who is unhappy.
-- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/): account managers take the follow-ups for customers who say they might leave.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): IT support and software providers that survey customers when each ticket closes.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): firms whose service desk or client team asks for a score after each piece of work.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/): shops that survey after each support conversation and need the unhappy answers seen quickly.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): too many survey answers for one person to read and route each week.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): the survey has run for years and nobody owns what happens after a low score.
+- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-satisfaction-detractor-follow-up&from=gh-customer-satisfaction-detractor-follo): the team that sends the surveys and is first to see who is unhappy.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-satisfaction-detractor-follow-up&from=gh-customer-satisfaction-detractor-follo): account managers take the follow-ups for customers who say they might leave.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-satisfaction-detractor-follow-up&from=gh-customer-satisfaction-detractor-follo): IT support and software providers that survey customers when each ticket closes.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-satisfaction-detractor-follow-up&from=gh-customer-satisfaction-detractor-follo): firms whose service desk or client team asks for a score after each piece of work.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-satisfaction-detractor-follow-up&from=gh-customer-satisfaction-detractor-follo): shops that survey after each support conversation and need the unhappy answers seen quickly.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-satisfaction-detractor-follow-up&from=gh-customer-satisfaction-detractor-follo): too many survey answers for one person to read and route each week.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-satisfaction-detractor-follow-up&from=gh-customer-satisfaction-detractor-follo): the survey has run for years and nobody owns what happens after a low score.
 
 ## What has to change for your company
 
@@ -68,7 +75,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in three runs: the first, by a model that had not written it, found places where the instructions were open; they were closed, and the second run was made on the revised version by the model that revised it; after an independent review the instructions were tightened again, and the third run, recorded with it, was made by that same model in a fresh session that saw only the instructions, the output format and the example's inputs. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past week your support lead remembers well, plus hard cases written in advance: a customer who scored low twice in a month, a comment that says they are leaving, a complaint about a bill the ticket says nothing about, a score with no comment, a week with only a handful of answers, a column header the template does not know. The support lead checks every count and every owner before any message goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past week your support lead remembers well, plus hard cases written in advance: a customer who scored low twice in a month, a comment that says they are leaving, a complaint about a bill the ticket says nothing about, a score with no comment, a week with only a handful of answers, a column header the template does not know. The support lead checks every count and every owner before any message goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-satisfaction-detractor-follow-up&from=gh-customer-satisfaction-detractor-follo) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-satisfaction-detractor-follow-up&from=gh-customer-satisfaction-detractor-follo) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -97,8 +104,8 @@ Testing in your environment means running it on a past week your support lead re
 
 - [Customer feedback themes](../customer-feedback-themes/)
 - [Complaint and refund request handling](../complaint-and-refund-request-handling/)
-- [Churn risk and save plan](https://fullypowered.ai/workflows/churn-risk-and-save-plan/)
+- [Churn risk and save plan](https://fullypowered.ai/workflows/churn-risk-and-save-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-satisfaction-detractor-follow-up&from=gh-customer-satisfaction-detractor-follo)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-satisfaction-detractor-follow-up&from=gh-customer-satisfaction-detractor-follo).

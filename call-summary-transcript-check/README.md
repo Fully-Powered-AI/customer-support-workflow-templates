@@ -1,10 +1,17 @@
 # Call summary check against the transcript
 
-Before anyone acts on the summary of a service call, your quality lead sees every amount, date, outcome and statement in it that the transcript does not back, each with the line and time to check, and what the summary left out. It changes no record; the reviewer decides what is corrected.
+Check a service call summary against its transcript: every unsupported amount, date and outcome, with the line to check, and what the summary left out.
 
-*Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/call-summary-transcript-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Call summary check against the transcript on our website](https://fullypowered.ai/workflows/call-summary-transcript-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-call-summary-transcript-check&from=gh-call-summary-transcript-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/call-summary-transcript-check/?from=gh-call-summary-transcript-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/call-summary-transcript-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-call-summary-transcript-check&from=gh-call-summary-transcript-check)*
 
 ## The outcome
 
@@ -40,13 +47,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/), where the contact center's quality lead owns the record of every call.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where a call summary promises refunds, replacements and delivery dates that the next agent will honor.
-- [Insurance](https://fullypowered.ai/industries/insurance/), where a claim call's summary carries amounts, dates and what the policyholder said, and the claim moves on that record.
-- [Energy](https://fullypowered.ai/industries/energy/), where billing calls turn on estimated readings, credits, payment plans and visit dates, and a customer may take a complaint to the ombudsman.
-- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/), where a service call about a charge or a payment has to be recorded exactly as it happened.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where call summaries have piled up for years and nobody has read them against what was said.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when call volume grows faster than the quality team and generated summaries start to carry the load.
+- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-call-summary-transcript-check&from=gh-call-summary-transcript-check), where the contact center's quality lead owns the record of every call.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-call-summary-transcript-check&from=gh-call-summary-transcript-check), where a call summary promises refunds, replacements and delivery dates that the next agent will honor.
+- [Insurance](https://fullypowered.ai/industries/insurance/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-call-summary-transcript-check&from=gh-call-summary-transcript-check), where a claim call's summary carries amounts, dates and what the policyholder said, and the claim moves on that record.
+- [Energy](https://fullypowered.ai/industries/energy/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-call-summary-transcript-check&from=gh-call-summary-transcript-check), where billing calls turn on estimated readings, credits, payment plans and visit dates, and a customer may take a complaint to the ombudsman.
+- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-call-summary-transcript-check&from=gh-call-summary-transcript-check), where a service call about a charge or a payment has to be recorded exactly as it happened.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-call-summary-transcript-check&from=gh-call-summary-transcript-check), where call summaries have piled up for years and nobody has read them against what was said.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-call-summary-transcript-check&from=gh-call-summary-transcript-check), when call volume grows faster than the quality team and generated summaries start to carry the load.
 
 ## What has to change for your company
 
@@ -56,7 +63,7 @@ Export transcripts with the column headers and speaker labels the template expec
 
 FullyPowered AI wrote this workflow template as original work. It was editorially reviewed on 11 November 2026. It was tried once on its invented example on 11 November 2026 in Claude; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on past calls your quality lead has already reviewed by listening, with hard cases chosen in advance: an amount with two digits swapped, an offer recorded as done, "next Wednesday" with the date unheard, a refusal recorded as agreement, a request for a supervisor the summary leaves out, an export with different column headers. The quality lead checks every quoted line against the transcript and every unclear passage against the recording before anyone relies on a finding. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on past calls your quality lead has already reviewed by listening, with hard cases chosen in advance: an amount with two digits swapped, an offer recorded as done, "next Wednesday" with the date unheard, a refusal recorded as agreement, a request for a supervisor the summary leaves out, an export with different column headers. The quality lead checks every quoted line against the transcript and every unclear passage against the recording before anyone relies on a finding. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-call-summary-transcript-check&from=gh-call-summary-transcript-check) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-call-summary-transcript-check&from=gh-call-summary-transcript-check) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -85,9 +92,9 @@ Testing in your environment means running it on past calls your quality lead has
 
 - [Support escalation brief](../support-escalation-brief/)
 - [Complaint and refund request handling](../complaint-and-refund-request-handling/)
-- [Account commitments check](https://fullypowered.ai/workflows/account-commitments-check/)
+- [Account commitments check](https://fullypowered.ai/workflows/account-commitments-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-call-summary-transcript-check&from=gh-call-summary-transcript-check)
 - [Follow-ups promised on service calls](../service-call-promises-list/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-call-summary-transcript-check&from=gh-call-summary-transcript-check).
