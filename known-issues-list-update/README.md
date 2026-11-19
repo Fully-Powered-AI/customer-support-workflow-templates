@@ -3,7 +3,7 @@
 Draft the known-issues entry for a confirmed fault from cases and the engineering note, and flag entries a release fixes. The support lead approves.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Known-issues list update on our website](https://fullypowered.ai/workflows/known-issues-list-update/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-known-issues-list-update&from=gh-known-issues-list-update) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Known-issues list update on our website](https://fullypowered.ai/workflows/known-issues-list-update/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-known-issues-list-update&from=gh-known-issues-list-update). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

@@ -3,7 +3,7 @@
 Check a service call summary against its transcript: every unsupported amount, date and outcome, with the line to check, and what the summary left out.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Call summary check against the transcript on our website](https://fullypowered.ai/workflows/call-summary-transcript-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-call-summary-transcript-check&from=gh-call-summary-transcript-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Call summary check against the transcript on our website](https://fullypowered.ai/workflows/call-summary-transcript-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-call-summary-transcript-check&from=gh-call-summary-transcript-check). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

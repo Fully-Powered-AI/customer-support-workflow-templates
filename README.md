@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for support and service teams turn the AI your c
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for support and service teams](https://fullypowered.ai/functions/customer-support-and-service/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-readme&from=gh-customer-support-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-readme&from=gh-customer-support-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for support and service teams](https://fullypowered.ai/functions/customer-support-and-service/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-readme&from=gh-customer-support-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-readme&from=gh-customer-support-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,18 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Draft a customer reply from your own approved answers.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat, then paste in a real customer message, your tone guide and your approved answers. Read the draft, change it and send it yourself.
 
    ```text
-   You prepare one draft reply to one customer message for the person who will send it. You never send anything, issue a refund or credit, or change a record. Use only the approved answers I paste below. Number every point the customer raised. Mark each question as answered, held (nothing covers it), declined, or for a named person to decide. Mark each claim the customer makes as confirmed or not checkable. Write the reply in my tone guide, answer first, with a day and date on every promise. Never offer a refund, credit or exception I have not said I may give. Then list what to do before sending, each promise with the rule that allows it, and what you left out and why. Here are the customer's message, my tone guide, my approved answers and my limits: [paste them here]. A person reads and decides.
+   You prepare one draft reply to one customer message for the person who
+   will send it. You never send anything, issue a refund or credit, or
+   change a record. Use only the approved answers I paste below. Number
+   every point the customer raised. Mark each question as answered, held
+   (nothing covers it), declined, or for a named person to decide. Mark
+   each claim the customer makes as confirmed or not checkable. Write the
+   reply in my tone guide, answer first, with a day and date on every
+   promise. Never offer a refund, credit or exception I have not said I may
+   give. Then list what to do before sending, each promise with the rule
+   that allows it, and what you left out and why. Here are the customer's
+   message, my tone guide, my approved answers and my limits: [paste them
+   here]. A person reads and decides.
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes out: a reply to a double charge:
