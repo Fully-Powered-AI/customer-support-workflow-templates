@@ -4,6 +4,8 @@ When engineering confirms a fault, your support lead gets the known-issues entry
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/known-issues-list-update/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/known-issues-list-update/?from=gh-known-issues-list-update)
+
 ## The outcome
 
 Your support team matches every new case against one list, so the list has to be right. When engineering confirms a fault, the entry your people will lean on for weeks is ready the same day: the versions engineering says are affected, the conditions it happens under, what customers actually see, quoted from their own cases, and the workaround copied word for word from what engineering tested, with the versions it was tested on. Where the workaround was tested on only some of the affected versions, the entry says so and names the cases on the others.

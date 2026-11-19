@@ -4,6 +4,8 @@ Once a period, your support lead sees what the help centre is missing, read from
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/help-centre-gap-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/help-centre-gap-review/?from=gh-help-centre-gap-review)
+
 ## The outcome
 
 The next article your team writes is the one last month's tickets asked for. Every ticket a customer could have settled alone is sorted by what it took: an agent writing the answer by hand because no article holds it, an agent sending a link to an article that already had the answer, or an agent sending a link and then correcting what the article said. The help centre's searches that returned nothing add the words customers typed and did not find.

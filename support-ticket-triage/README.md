@@ -4,6 +4,8 @@ Your queue manager opens the morning’s tickets already sorted: each one with a
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/support-ticket-triage/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/support-ticket-triage/?from=gh-support-ticket-triage)
+
 ## The outcome
 
 The queue is read before anyone picks from it. Every new ticket has a category, a priority, a route and one line saying why, all taken from your own written rules. Duplicates are tied to the ticket they repeat. Known issues are matched to the answer you have already posted. Three customers describing the same fault in three different ways show up as one pattern, not three tickets.

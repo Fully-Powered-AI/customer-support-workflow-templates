@@ -4,6 +4,8 @@ The support lead gets reply and resolution targets for every priority level, wor
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/support-service-level-definition/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/support-service-level-definition/?from=gh-support-service-level-definition)
+
 ## The outcome
 
 Your team's targets stop being a number someone liked the sound of. For each priority level there is a time for the first reply from a person and a time for resolution, each counted only in the hours that level is covered, each meant for a stated share of tickets, and each with a warning point at which an open ticket is raised to the lead. Every target sits beside the team's own record, so anyone can see where it came from.

@@ -4,6 +4,8 @@ After service calls, the contact-center team leader gets every follow-up the age
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/service-call-promises-list/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/service-call-promises-list/?from=gh-service-call-promises-list)
+
 ## The outcome
 
 The team leader sees what customers were told they would get, in the agent's own words, before a customer has to ring back and ask. Every promise points to the line of the transcript where it was said, so anyone can check it against the call. A callback "by Thursday" shows the Thursday it means. A refund that "should" arrive is marked as hedged. "We'll sort that out" shows that nobody was named to sort it out.

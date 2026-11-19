@@ -4,6 +4,8 @@ Once your business has issued a recall, the customer care lead gets the contact 
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/product-recall-customer-contact-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/product-recall-customer-contact-plan/?from=gh-product-recall-customer-contact-plan)
+
 ## The outcome
 
 Every affected customer is on one list, and nobody slips off it. Your care team works from one email draft and one phone script, both carrying the notice exactly as your business approved it and offering only the collection, return or repair you really operate. Nobody improvises an answer about the hazard, promises a refund you do not offer, or shares what a customer bought with a stranger who happens to answer.

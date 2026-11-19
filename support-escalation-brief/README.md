@@ -4,6 +4,8 @@ When a support case must move to a specialist or manager, the support lead gets 
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/support-escalation-brief/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/support-escalation-brief/?from=gh-support-escalation-brief)
+
 ## The outcome
 
 The person who receives an escalated case can act on it without reading the whole thread or asking the support team to explain it again. The brief says who is affected and how, in what order things happened, what proof exists and what is missing, what has already been tried, how the customer is coping in the meantime and exactly what the receiving owner is being asked to decide.

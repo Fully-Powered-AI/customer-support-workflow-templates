@@ -4,6 +4,8 @@ Once a week the support lead gets one sheet of what the queue is hiding: tickets
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/stale-ticket-sweep/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/stale-ticket-sweep/?from=gh-customer-support-stale-ticket-sweep)
+
 ## The outcome
 
 The week's plan starts from the whole queue, not from whatever arrived last. Every open ticket is accounted for exactly once. The ones past their limit are listed with the longest overdue first, each with the date of its last real activity and one question for the lead. A ticket the support system updated by itself does not pass for one a person worked on.

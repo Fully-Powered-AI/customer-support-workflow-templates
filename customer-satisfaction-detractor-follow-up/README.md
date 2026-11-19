@@ -4,6 +4,8 @@ Every week your support lead gets each low satisfaction or recommendation score 
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-satisfaction-detractor-follow-up/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/customer-satisfaction-detractor-follow-up/?from=gh-customer-satisfaction-detractor-follo)
+
 ## The outcome
 
 Every unhappy customer reaches someone who can put it right. Each Monday the support lead sees every low score from the week before, joined to the ticket it came from. Each one carries the customer's comment exactly as they wrote it, the events in the ticket that explain it (a wait over a weekend, a visit moved, a third ticket for the same fault), the person best placed to call back and why, and a short message that person can edit and send.

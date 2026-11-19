@@ -4,6 +4,8 @@ A customer complains or asks for money back, and whoever handles it gets your po
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/?from=gh-complaint-and-refund-request-handling)
+
 ## The outcome
 
 Every complaint is settled the way your written policy says, whoever picks it up. The handler sees which clause applies to each item, whether each condition is met, and the exact amount, with the arithmetic shown. Any refund, credit or replacement is written out as a request for the person allowed to approve it, and marked as not yet issued. The reply opens with the outcome. Where the policy says no, the reply says no too, names the clause, and puts forward the option the policy leaves open.

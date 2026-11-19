@@ -4,6 +4,8 @@ Turn every answer your team works out once into an article the next customer fin
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/help-article-from-a-resolved-issue/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/help-article-from-a-resolved-issue/?from=gh-help-article-from-a-resolved-issue)
+
 ## The outcome
 
 An agent solves a tricky problem on Wednesday, and by the following week the fix is a help article any customer can find by typing what they see. The draft arrives with the title, the steps and the search terms already in your customers' language, the customer who raised it nowhere in sight, and each statement linked back to the message in the ticket it came from.

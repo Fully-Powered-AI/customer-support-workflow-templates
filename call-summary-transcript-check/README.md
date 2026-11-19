@@ -4,6 +4,8 @@ Before anyone acts on the summary of a service call, your quality lead sees ever
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/call-summary-transcript-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/call-summary-transcript-check/?from=gh-call-summary-transcript-check)
+
 ## The outcome
 
 The record of a call says what was actually said. A summary is the part of a call everyone else relies on: the next agent, the team approving a credit, the person answering a complaint. When it says a credit was applied and the agent only asked for one, or that the customer agreed to a payment plan when they said they would think about it, the next decision rests on something that never happened.

@@ -4,6 +4,8 @@ Each month your support lead sees what customers keep telling you: tickets, disp
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-feedback-themes/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/customer-feedback-themes/?from=gh-customer-feedback-themes)
+
 ## The outcome
 
 Once a month the scattered complaints turn into one picture. Every ticket, card dispute, review and survey comment from the month is read, and items about the same experience are put together, so three customers describing one dented parcel in three different ways land in one theme. Each theme is counted by customer as well as by message, so one person who writes five times is still one customer, and each carries its impact and a few quotations in the customers' own words, with names and contact details taken out.

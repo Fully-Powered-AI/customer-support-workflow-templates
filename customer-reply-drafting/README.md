@@ -4,6 +4,8 @@ Every customer gets the reply your best person would write. Hand over the custom
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-reply-drafting/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/customer-reply-drafting/?from=gh-customer-reply-drafting)
+
 ## The outcome
 
 A customer writes in, and minutes later the person handling it has a reply ready to read: the answer first, in your company's voice, at the right length for the channel, with each next step dated and owned. Beside it sits a short list of what to confirm, what the draft promises and which of your rules allows each promise.
