@@ -1,6 +1,6 @@
-# Follow-ups promised on service calls: an invented example
+# Follow-ups promised on service calls: an example
 
-*Illustrative example with invented data.* The company, its customers, its agents, the calls, the records, the dates and the amounts below are all invented. An invented online retailer of kitchen appliances runs a phone queue for orders and deliveries. On Thursday morning the queue's team leader picks two of Monday afternoon's calls for review, one taken by Maya and one by Theo. The team leader exports the call list, the transcripts and the follow-up records, and runs the workflow template.
+*Illustrative example with sample data.* The company, its customers, its agents, the calls, the records, the dates and the amounts below are all illustrative. An illustrative online retailer of kitchen appliances runs a phone queue for orders and deliveries. On Thursday morning the queue's team leader picks two of Monday afternoon's calls for review, one taken by Maya and one by Theo. The team leader exports the call list, the transcripts and the follow-up records, and runs the workflow template.
 
 The inputs come first, in full, so the template can be run on them. The list it returned follows.
 

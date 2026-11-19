@@ -1,10 +1,10 @@
-# Call summary check against the transcript: tried once on its invented example
+# Call summary check against the transcript: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5), run as an agent in Claude Code
 - **Date:** 2026-11-11
 
-The inputs were the invented example published beside this template. No client data was used. The assistant that ran the template did not write it.
+The inputs were the example published beside this template. No client data was used. The assistant that ran the template did not write it.
 
 ## What was run
 
@@ -90,11 +90,11 @@ Where the instructions were ambiguous and the assistant had to guess:
 
 Shortcomings of the template found in this one trial:
 
-- At the time of the run, the version notes still said "Not yet tried on its invented example". That is no longer true once this record is attached.
+- At the time of the run, the version notes still said "Not yet tried on its example". That is no longer true once this record is attached.
 - The instruction block says to use the output format "exactly" but does not contain it; the format sits in a separate section the person must paste after the block. This worked here only because both were supplied.
 - Nothing says what a recorded closed day means for the day of a booked visit.
 
-This was one run, by one model, on one invented call. It does not show how the template performs on a real transcript, on a long one, or in another product, and the sixteen acceptance tests in the template were not run.
+This was one run, by one model, on one illustrative call. It does not show how the template performs on a real transcript, on a long one, or in another product, and the sixteen acceptance tests in the template were not run.
 
 Changed after the run recorded above, and not run again. The output and the observations above are as recorded and describe the template and the example as they stood at the run. The example has since been brought into line with what the run found, so the comparison above can no longer be seen by reading the published example:
 

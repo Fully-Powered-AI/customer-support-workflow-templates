@@ -1,10 +1,10 @@
-# Support service level definition: tried on its invented example
+# Support service level definition: tried on its example
 
 - **Product:** Claude, run in Claude Code
 
 Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date: 2026-11-09.
 
-The inputs are the invented example in `public/example.md`: the priority definitions, the coverage note, the roster, the minutes per ticket, the targets wanted, the settings and the 72-row ticket export, all invented. No client data was used. The run was done by a model that did not write the template. It followed the fenced instruction block and the output format in `member/template.md`, and read the example's own output only after producing its own. The ticket times were worked out with a small script written for the run, because counting covered time by hand across 72 tickets is error-prone; the script followed the template's clocks and position rule.
+The inputs are the example in `public/example.md`: the priority definitions, the coverage note, the roster, the minutes per ticket, the targets wanted, the settings and the 72-row ticket export, all illustrative. No client data was used. The run was done by a model that did not write the template. It followed the fenced instruction block and the output format in `member/template.md`, and read the example's own output only after producing its own. The ticket times were worked out with a small script written for the run, because counting covered time by hand across 72 tickets is error-prone; the script followed the template's clocks and position rule.
 
 ## What came out
 
@@ -96,7 +96,7 @@ Prepared for the support lead. Every figure comes from the ticket export, the co
   - What "[team or queue]" is when the inputs give none.
   - A reply or resolution outside covered hours: the procedure counts only covered time, so the clock stops at the end of covered hours. It does not say so for the end of a ticket, only for the start.
   - Placeholders such as "[your target share]" appear in the procedure and inputs, while the instruction block states the defaults in plain words. The defaults were taken from both and agreed.
-- **Limits of this trial.** One run, one product, one invented example, with a script doing the arithmetic. It shows the instructions can be followed to a complete output on this input. It does not test the stop conditions or the refusals (the acceptance tests), a real export, or any other product. The template's own version note still says it has not been tried; that line is the template owner's to update.
+- **Limits of this trial.** One run, one product, one example, with a script doing the arithmetic. It shows the instructions can be followed to a complete output on this input. It does not test the stop conditions or the refusals (the acceptance tests), a real export, or any other product. The template's own version note still says it has not been tried; that line is the template owner's to update.
 
 ## Edits after the recorded run
 

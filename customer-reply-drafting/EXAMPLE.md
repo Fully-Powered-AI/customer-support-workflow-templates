@@ -1,6 +1,6 @@
-# Customer reply drafting: an invented example
+# Customer reply drafting: an example
 
-*Illustrative example with invented data.* The company, the customer, the people, the charges and every document below are invented. Company T is an invented 25-person company that sells online booking software to independent fitness studios; Studio M is an invented customer. First come the inputs the support agent supplied, in full, then the draft the workflow template returned.
+*Illustrative example with sample data.* The company, the customer, the people, the charges and every document below are illustrative. Company T is an illustrative 25-person company that sells online booking software to independent fitness studios; Studio M is an illustrative customer. First come the inputs the support agent supplied, in full, then the draft the workflow template returned.
 
 ## The inputs
 

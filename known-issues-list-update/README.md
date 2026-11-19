@@ -8,7 +8,7 @@ Draft the known-issues entry for a confirmed fault from cases and the engineerin
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/known-issues-list-update/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-known-issues-list-update&from=gh-known-issues-list-update)*
@@ -41,7 +41,7 @@ One draft update in a fixed order. The header counts the cases linked and held o
 
 Then the new entry, numbered after the last one on the list: title in customers' words, affected and unaffected versions, when it happens, quotes from the cases, search words your team can match new cases on, the workaround as tested and where it was not tested, the fix status marked internal, and the linked cases. The held-out cases and the untested customer fixes follow. Open entries that may describe the same fault come next, then the release check: entries proposed as fixed, entries named but not proposed, possible matches, and fixes with no entry on the list. The draft ends with numbered questions, each addressed to the support lead or engineering, and the list of record changes a person makes once the support lead approves. When a section has nothing in it, it says so.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -58,7 +58,7 @@ Tell it the column headers your support system and issue tracker export, or expo
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template as original work. It was editorially reviewed on 12 November 2026. It was tried on its invented example in Claude on 12 November 2026, and the record of that run is published with the template. After an independent review the same day, the instructions were corrected and the template was run again on the example. After a second review that day, small corrections were made and it was run once more on the example; the published record is of that third run, made by the session that edited the template, so it is not a blind test. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template as original work. It was editorially reviewed on 12 November 2026. It was tried on its example in Claude on 12 November 2026, and the record of that run is published with the template. After an independent review the same day, the instructions were corrected and the template was run again on the example. After a second review that day, small corrections were made and it was run once more on the example; the published record is of that third run, made by the session that edited the template, so it is not a blind test. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past confirmation and a past release your support lead already knows, with hard cases written in advance: a workaround tested on only some versions, a case on a version engineering did not list, a case on a platform engineering says is not affected, a fix the notes describe as working "for most", a fixed line with no reference, an export with different column headers. The support lead checks every copied version and workaround step against the engineering note before anyone relies on the entry. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-known-issues-list-update&from=gh-known-issues-list-update) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-known-issues-list-update&from=gh-known-issues-list-update) describes the record we keep.
 
@@ -66,13 +66,13 @@ Testing in your environment means running it on a past confirmation and a past r
 - Sources and rights reviewed.
 - Editorially reviewed on 12 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 12 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 12 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

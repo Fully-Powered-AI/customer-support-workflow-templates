@@ -8,7 +8,7 @@ Turn an approved recall notice and your order export into a customer list, draft
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/product-recall-customer-contact-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-product-recall-customer-contact-plan&from=gh-product-recall-customer-contact-plan)*
@@ -43,7 +43,7 @@ The customer care lead or service lead starts it once the decision to recall has
 
 A good plan can be checked against the order export and the two logs in a few minutes.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -61,7 +61,7 @@ Write the recall record down first: the identifiers, the notice exactly as appro
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in four runs: the instructions and the example were revised after each of the first three, and the fourth, on the current version, gave the same customer list, statuses, counts and follow-up as the example; the record is published with it, and no edits to the instructions or the example have been made since that run. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example on 10 November 2026 in four runs: the instructions and the example were revised after each of the first three, and the fourth, on the current version, gave the same customer list, statuses, counts and follow-up as the example; the record is published with it, and no edits to the instructions or the example have been made since that run. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past recall or a rehearsal with your own order data, plus hard cases written in advance: a row with a blank batch number, a unit received with nobody's name against it, a customer who asks about damage, a request to offer a remedy you do not run. The care lead checks every count against the logs before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-product-recall-customer-contact-plan&from=gh-product-recall-customer-contact-plan) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-product-recall-customer-contact-plan&from=gh-product-recall-customer-contact-plan) shows the record.
 
@@ -69,13 +69,13 @@ Testing in your environment means running it on a past recall or a rehearsal wit
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

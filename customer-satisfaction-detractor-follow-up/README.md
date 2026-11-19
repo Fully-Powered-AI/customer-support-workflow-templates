@@ -8,7 +8,7 @@ Each week, every low satisfaction score joined to its ticket, with a suggested o
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-satisfaction-detractor-follow-up/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-satisfaction-detractor-follow-up&from=gh-customer-satisfaction-detractor-follo)*
@@ -50,7 +50,7 @@ One report in a fixed order:
 
 Good looks like this: every low score in the export appears once, every line about what went wrong points to a dated event in the ticket, and each owner can send their message after a light edit.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -73,7 +73,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in three runs: the first, by a model that had not written it, found places where the instructions were open; they were closed, and the second run was made on the revised version by the model that revised it; after an independent review the instructions were tightened again, and the third run, recorded with it, was made by that same model in a fresh session that saw only the instructions, the output format and the example's inputs. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026 in three runs: the first, by a model that had not written it, found places where the instructions were open; they were closed, and the second run was made on the revised version by the model that revised it; after an independent review the instructions were tightened again, and the third run, recorded with it, was made by that same model in a fresh session that saw only the instructions, the output format and the example's inputs. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past week your support lead remembers well, plus hard cases written in advance: a customer who scored low twice in a month, a comment that says they are leaving, a complaint about a bill the ticket says nothing about, a score with no comment, a week with only a handful of answers, a column header the template does not know. The support lead checks every count and every owner before any message goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-satisfaction-detractor-follow-up&from=gh-customer-satisfaction-detractor-follo) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-satisfaction-detractor-follow-up&from=gh-customer-satisfaction-detractor-follo) describes the record we keep.
 
@@ -81,13 +81,13 @@ Testing in your environment means running it on a past week your support lead re
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

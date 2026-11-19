@@ -1,6 +1,6 @@
-# Known-issues list update: an invented example
+# Known-issues list update: an example
 
-*Illustrative example with invented data.* The company, its customers, the cases, the engineering note, the list, the release notes and every version number below are invented. Company K is an invented maker of a scheduling and work-order app for small trades businesses, on Android, iOS and the web. Its support team keeps an internal known-issues list that support engineers match new cases against. On Thursday 12 November 2026 the senior support engineer had two things to bring to the list: engineering had confirmed a fault behind a run of cases about lost photos, and release 5.3.3 had shipped on the Monday. First come the inputs the senior support engineer supplied, in full, then the update the workflow template returned for the support lead.
+*Illustrative example with sample data.* The company, its customers, the cases, the engineering note, the list, the release notes and every version number below are illustrative. Company K is an illustrative maker of a scheduling and work-order app for small trades businesses, on Android, iOS and the web. Its support team keeps an internal known-issues list that support engineers match new cases against. On Thursday 12 November 2026 the senior support engineer had two things to bring to the list: engineering had confirmed a fault behind a run of cases about lost photos, and release 5.3.3 had shipped on the Monday. First come the inputs the senior support engineer supplied, in full, then the update the workflow template returned for the support lead.
 
 ## The inputs
 

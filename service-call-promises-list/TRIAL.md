@@ -1,4 +1,4 @@
-# Follow-ups promised on service calls: trial on the invented example
+# Follow-ups promised on service calls: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
@@ -6,7 +6,7 @@
 
 This is the second recorded run. The first run (also 2026-11-11) was by a separate assistant and led to changes in the instruction block, the output format and the example's run settings; this record replaces it. Because the same model that made those changes ran this one, it is a check that the changed block and format can be followed to the example's result, not an independent trial.
 
-The inputs are the invented example, and no client data was used. The run settings, the call list (C-4471 and C-4486), the transcripts and the five follow-up records are those under "The inputs" in `public/example.md`. The run used the template's changed instruction block and output format and those inputs only. The published example's output was read after the list below was produced, not before. Claude Sonnet 5.5 made the edits to the block and format before this run.
+The inputs are the example, and no client data was used. The run settings, the call list (C-4471 and C-4486), the transcripts and the five follow-up records are those under "The inputs" in `public/example.md`. The run used the template's changed instruction block and output format and those inputs only. The published example's output was read after the list below was produced, not before. Claude Sonnet 5.5 made the edits to the block and format before this run.
 
 ## What came out
 
@@ -138,4 +138,4 @@ Points from the first run and where they stand:
 
 The same-weekday reading was not exercised by the example, whose Thursday deadline comes from a Monday call.
 
-This is one run in one product on invented data. It shows the changed template can be followed to a complete list. It is not a test in a real company's systems.
+This is one run in one product on sample data. It shows the changed template can be followed to a complete list. It is not a test in a real company's systems.

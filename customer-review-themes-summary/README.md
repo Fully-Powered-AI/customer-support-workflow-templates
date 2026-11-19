@@ -8,7 +8,7 @@ Each month, one summary from your reviews export: counts by site and rating, the
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-review-themes-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-review-themes-summary&from=gh-customer-review-themes-summary)*
@@ -49,7 +49,7 @@ One summary in a fixed order:
 
 After the closing line comes the manager's note: each review that names a member of staff, with its ID, site and date and the name as written, and nothing else. It is cut off before the summary is shared. A section with nothing in it says "None."
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -69,7 +69,7 @@ Match the column headers to your export once, and give each review site a plain 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 19 November 2026. It was tried on its invented example on 19 November 2026 in one run, published with it. Edits after that run, which settled a few judgment points in the instructions, have not been run again. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 19 November 2026. It was tried on its example on 19 November 2026 in one run, published with it. Edits after that run, which settled a few judgment points in the instructions, have not been run again. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past month whose reviews your team remembers well, with hard cases written in advance: a review that mentions a lawyer, one that names a member of staff, a column header the workflow template does not know, a review marked answered with no reply date. The person who runs it checks every count against the export before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-customer-review-themes-summary&from=gh-customer-review-themes-summary) sets those cases up.
 
@@ -77,13 +77,13 @@ Testing in your environment means running it on a past month whose reviews your 
 - Sources and rights reviewed.
 - Editorially reviewed on 19 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 19 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 19 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -1,10 +1,10 @@
-# Stale ticket sweep: tried once on its invented example
+# Stale ticket sweep: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the template's own invented example. No client data was used. The run was made by an assistant that had not written the template. It read the template and the example's inputs first, produced the sheet by following the instruction block and the output format, and only then compared the result with the example's published sheet and the reviewer checklist.
+The inputs are the template's own example. No client data was used. The run was made by an assistant that had not written the template. It read the template and the example's inputs first, produced the sheet by following the instruction block and the output format, and only then compared the result with the example's published sheet and the reviewer checklist.
 
 ## Inputs used
 
@@ -154,4 +154,4 @@ These were made on 10 November 2026, after the run above and after an independen
 
 ## What was not shown
 
-This was one run, on one invented example, in one product, by one model. It does not show how the template behaves on a real export, with real column headings, on other models or products, or in a team's own environment. It was not tested in a client environment.
+This was one run, on one example, in one product, by one model. It does not show how the template behaves on a real export, with real column headings, on other models or products, or in a team's own environment. It was not tested in a client environment.

@@ -1,6 +1,6 @@
-# Help centre gap review: an invented example
+# Help centre gap review: an example
 
-*Illustrative example with invented data.* The company, its customers, the staff, the tickets, the searches, the articles and every figure below are invented. Company V is an invented 25-person company that sells class-booking software to independent fitness and dance studios; its customers are the studios' owners and managers. First come the inputs the support specialist supplied, in full, then the review the workflow template returned.
+*Illustrative example with sample data.* The company, its customers, the staff, the tickets, the searches, the articles and every figure below are illustrative. Company V is an illustrative 25-person company that sells class-booking software to independent fitness and dance studios; its customers are the studios' owners and managers. First come the inputs the support specialist supplied, in full, then the review the workflow template returned.
 
 ## The inputs
 

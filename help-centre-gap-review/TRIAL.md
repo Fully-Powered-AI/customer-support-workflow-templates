@@ -1,10 +1,10 @@
-# Help centre gap review: tried on its invented example
+# Help centre gap review: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 
-This was one run of the template, version 0.1.0 as published, on its own invented example. The inputs are the invented Company V data in [the example](example.md), sections 1 to 4 (settings, ticket export, search log and article list). No client data was used.
+This was one run of the template, version 0.1.0 as published, on its own example. The inputs are the illustrative Company V data in [the example](example.md), sections 1 to 4 (settings, ticket export, search log and article list). No client data was used.
 
 **This run was not blind.** The same session rewrote the template and wrote the example's inputs, then ran the instruction block on those inputs. There was no separate published output to compare with: the output below is the run's, and it was copied unchanged into the example as its published output. To check it, every count was recomputed afterward by a short script that read the three input files (tickets in and out of the period, the check line, each topic's tickets and sort, the searches with no results matched to each topic, and the words missing from each article's title and tags). Every figure agreed. An independent run by a model that has not seen the output is still to be done.
 
@@ -71,7 +71,7 @@ Draft for Lena, support lead's decision. Nothing has been written, published, ed
 - **Nothing stopped the run.** Both required exports and the search log were present, every header matched the defaults, no ID was repeated, and there were tickets in the period.
 - **Every section of the output format was produced,** in order, and the check line added up (23 + 2 + 1 + 1 = 27). One ticket (T-4099, 30 September) was outside the period and left out.
 - **Each verdict but Unclear occurred once or more:** Missing, Falls short, Not found by search, No gap shown and Staff action. The example has no unclear resolution and no tags that look alike, so those paths were not exercised.
-- **Customer details stayed out.** The subjects carry two invented studio names and two first names; none appears in the output, and the data notes record the kinds and ticket IDs.
+- **Customer details stayed out.** The subjects carry two illustrative studio names and two first names; none appears in the output, and the data notes record the kinds and ticket IDs.
 - **Facts not in the inputs.** None found on a line-by-line read. "Monday" comes from the settings.
 
 ## Where the run had to choose
@@ -84,4 +84,4 @@ Draft for Lena, support lead's decision. Nothing has been written, published, ed
 
 ## Unchecked by this run
 
-It covers one invented example in one product, run by the session that wrote the template. The thirteen other acceptance tests (a header named differently, no search log, unclear resolutions, alike tags, requests to write or assign, no tickets in the period, and so on) were not run.
+It covers one example in one product, run by the session that wrote the template. The thirteen other acceptance tests (a header named differently, no search log, unclear resolutions, alike tags, requests to write or assign, no tickets in the period, and so on) were not run.

@@ -1,10 +1,10 @@
-# Customer feedback themes: one trial on the invented example
+# Customer feedback themes: one trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5), the model that revised the template after review; not an independent run
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (the settings, the owner list, what changed this month, last month's report and fix list, and the 26-row feedback export). No client data was used. The run followed the instruction block and the output format from the workflow template, applied to the example's inputs.
+The inputs are the example in `public/example.md` (the settings, the owner list, what changed this month, last month's report and fix list, and the 26-row feedback export). No client data was used. The run followed the instruction block and the output format from the workflow template, applied to the example's inputs.
 
 This is the second run on the same example. An earlier run the same day, by a different model that had not written the template, showed where the instructions left room to guess; the instructions and the example's output were revised after review, and the run recorded here was made on the revised instructions. Because it was made by the model that made those revisions, which had already read the example's output and the earlier run, it is not an independent run. What the earlier run found, and what was changed, is at the end.
 
@@ -154,7 +154,7 @@ Where the instructions still left room to choose:
 
 No fact appears in this report that is not in the inputs. The proposed fixes are proposals, not claims about the shop.
 
-This was one run on one invented example, by the model that revised the instructions. It shows the revised instructions can be followed to a complete, consistent report. It does not show the template works in a real business.
+This was one run on one example, by the model that revised the instructions. It shows the revised instructions can be followed to a complete, consistent report. It does not show the template works in a real business.
 
 ## The earlier run, and what was changed
 

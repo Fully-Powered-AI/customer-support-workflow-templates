@@ -1,11 +1,11 @@
-# Customer satisfaction detractor follow-up: trial on the invented example
+# Customer satisfaction detractor follow-up: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-This is a record of one run of the workflow template on its own invented example. The business, its customers, its staff, the responses, the tickets and the numbers are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment. Nothing was sent, no customer was contacted and no record was changed.
+This is a record of one run of the workflow template on its own example. The business, its customers, its staff, the responses, the tickets and the numbers are illustrative, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment. Nothing was sent, no customer was contacted and no record was changed.
 
 This is the third run on the same example. The first, by a model that had not written the template, showed where the instructions left room to guess; the instructions were revised and a second run was made and recorded. An independent review then passed the template with minor points, the instructions and the output format were tightened again, and the run recorded here was made on that version. What the earlier runs found, and what was changed after each, is at the end.
 

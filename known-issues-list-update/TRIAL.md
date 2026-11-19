@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-12
 
-The inputs were the invented example in [example.md](example.md): the settings, the engineering note, the seven linked cases, the five-entry known-issues list and the release notes for the invented Company K. No client data was used. The fenced instruction block from the template, followed by the output format, was applied to the example's five inputs.
+The inputs were the example in [example.md](example.md): the settings, the engineering note, the seven linked cases, the five-entry known-issues list and the release notes for the illustrative Company K. No client data was used. The fenced instruction block from the template, followed by the output format, was applied to the example's five inputs.
 
 How this run differs from the two before it. The earlier runs were single calls to an assistant that had only the block, the format and the inputs. This run was made by the session that had just edited the template: the same model, but with the whole template, the example and the earlier record in view, so it is not a blind test and cannot show that the new wording alone produces the same output from a fresh assistant. The output below was written by following the block and the format line by line, then checked against the counts. Earlier runs of this template on the same example were recorded on this page before; this record replaces them. The earlier record's findings that led to this edit were: dates without a layout, a title with a version range and a repeated word, eight single search words, no release-platform caveat on proposed-as-fixed lines, and "See question" pointers on held-out lines that the format did not carry.
 
@@ -102,4 +102,4 @@ What this run does and does not show:
 
 Facts not in the inputs: none were found in this run's output.
 
-Shortcomings of this trial: it is one run by one model on one set of invented inputs, by a session that knew the example. It did not test any of the stop conditions, the unconfirmed-note path, the personal-details rule beyond the phone number in C-4425, the "reference already open" path, the new rule for a release earlier than an entry's range, or the "Not checked" lines for release notes. The acceptance tests in the template are still unrun, apart from the parts this example happens to cover.
+Shortcomings of this trial: it is one run by one model on one set of sample inputs, by a session that knew the example. It did not test any of the stop conditions, the unconfirmed-note path, the personal-details rule beyond the phone number in C-4425, the "reference already open" path, the new rule for a release earlier than an entry's range, or the "Not checked" lines for release notes. The acceptance tests in the template are still unrun, apart from the parts this example happens to cover.

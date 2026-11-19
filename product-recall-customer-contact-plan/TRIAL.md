@@ -1,10 +1,10 @@
-# Product recall customer contact plan: trial on the invented example
+# Product recall customer contact plan: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5) for the recorded run; the first run used Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The template was run four times on 10 November 2026 on its invented example in `public/example.md` (Business R, the FS-2 folding stool, notice FS2-0926): the recall record, the order export, the contact log, the returns log and the settings. No client data was used in any run. The pasted instructions, the output format and the example were revised after the first run, the sorting rule and two lines of the pasted instructions after the second, and, following an independent review, a few lines of the instructions, the output format and the example after the third. This record gives a short account of the first three runs and the fourth in full.
+The template was run four times on 10 November 2026 on its example in `public/example.md` (Business R, the FS-2 folding stool, notice FS2-0926): the recall record, the order export, the contact log, the returns log and the settings. No client data was used in any run. The pasted instructions, the output format and the example were revised after the first run, the sorting rule and two lines of the pasted instructions after the second, and, following an independent review, a few lines of the instructions, the output format and the example after the third. This record gives a short account of the first three runs and the fourth in full.
 
 ## The first run
 
@@ -306,4 +306,4 @@ Against the published example:
 
 Edits made after this run: none to the pasted instructions, the output format, the procedure or the example. Only the version notes in the template, the "What has been checked" paragraph of the public page and this record were written afterward.
 
-The thirteen acceptance tests in the template are proposed and have not been run; this trial covers the invented example only.
+The thirteen acceptance tests in the template are proposed and have not been run; this trial covers the example only.

@@ -1,6 +1,6 @@
-# Call summary check against the transcript: an invented example
+# Call summary check against the transcript: an example
 
-*Illustrative example with invented data.* The company, the customer, the call, the transcript, the summary and every figure below are invented. Company R is an invented supplier of electricity and gas to homes, with a billing team of twelve agents. Its call platform writes a summary of each call onto the case. A customer called about a high bill, and the billing team leader was about to send the case on for a credit. First come the inputs the billing team leader supplied, in full, then the check the workflow template returned.
+*Illustrative example with sample data.* The company, the customer, the call, the transcript, the summary and every figure below are illustrative. Company R is an illustrative supplier of electricity and gas to homes, with a billing team of twelve agents. Its call platform writes a summary of each call onto the case. A customer called about a high bill, and the billing team leader was about to send the case on for a credit. First come the inputs the billing team leader supplied, in full, then the check the workflow template returned.
 
 ## The inputs
 

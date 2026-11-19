@@ -4,7 +4,7 @@
 
 Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date: 2026-11-09.
 
-The inputs are the invented example in `public/example.md` (Company H, Client W, tickets, articles and style guide all invented). No client data was used. I used its five inputs as given: the resolution record, the note from the person running it, the article list, the style guide HC-2 and the settings. I followed the instruction block and the output format in `member/template.md`. I did not write this template.
+The inputs are the example in `public/example.md` (Company H, Client W, tickets, articles and style guide all illustrative). No client data was used. I used its five inputs as given: the resolution record, the note from the person running it, the article list, the style guide HC-2 and the settings. I followed the instruction block and the output format in `member/template.md`. I did not write this template.
 
 One flaw in the method, stated first: I was meant to read only the inputs before producing my output. My first file read printed the whole example, including most of its output, so I had seen that output before I wrote mine. My article and notes below were composed from the inputs and the instructions, but they are not a blind run, and the close match to the published example partly reflects that. The ambiguities listed at the end were found while following the instructions.
 
@@ -117,7 +117,7 @@ Ambiguities and defects in the template, where I had to guess or decide:
 9. **Closing line and Related articles.** The format puts the closing line above Related articles, and HC-2 agrees. When "If that does not work" is the last section, the closing line sits alone after it; fine, but the format's note "[Any further case...]" sections come before "If that does not work", which I followed.
 10. **Approved product facts: none supplied.** The statement "Only account admins can see this page" comes from an internal note, not an approved fact. The template permits sources including internal notes in the trace, but also says a statement not in the record needs an approved fact. A support note counts as the record here, so it passed, but the line between the two is thin.
 
-Nothing in the template was wrong enough to stop the run. The acceptance tests were not run as part of this trial; only the one scenario in the invented example.
+Nothing in the template was wrong enough to stop the run. The acceptance tests were not run as part of this trial; only the one scenario in the example.
 
 ## Changed after this run
 

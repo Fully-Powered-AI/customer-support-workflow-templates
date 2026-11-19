@@ -339,4 +339,4 @@ lead may overrule any line in their own name.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example in Claude on 10 November 2026 in three runs: the instructions and the example were revised after the first, tightened again after an independent review of the second, and the third, made in a fresh session given only the instructions, the output format and the example's inputs, is the run recorded. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its example in Claude on 10 November 2026 in three runs: the instructions and the example were revised after the first, tightened again after an independent review of the second, and the third, made in a fresh session given only the instructions, the output format and the example's inputs, is the run recorded. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

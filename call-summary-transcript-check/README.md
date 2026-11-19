@@ -8,7 +8,7 @@ Check a service call summary against its transcript: every unsupported amount, d
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Customer support and service · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/call-summary-transcript-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-call-summary-transcript-check&from=gh-call-summary-transcript-check)*
@@ -43,7 +43,7 @@ One check for one call, in a fixed order. The header gives the call, the limits 
 
 Then the claims, contradicted first, then not supported, then cannot tell, each with the summary's words beside the transcript's, and the working for every date. What the summary left out follows, each item with its line and time, then the later corrections and what they touch, and the claims the transcript supports. Card numbers and security answers are never repeated.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -61,7 +61,7 @@ Export transcripts with the column headers and speaker labels the template expec
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template as original work. It was editorially reviewed on 11 November 2026. It was tried once on its invented example on 11 November 2026 in Claude; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template as original work. It was editorially reviewed on 11 November 2026. It was tried once on its example on 11 November 2026 in Claude; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on past calls your quality lead has already reviewed by listening, with hard cases chosen in advance: an amount with two digits swapped, an offer recorded as done, "next Wednesday" with the date unheard, a refusal recorded as agreement, a request for a supervisor the summary leaves out, an export with different column headers. The quality lead checks every quoted line against the transcript and every unclear passage against the recording before anyone relies on a finding. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-call-summary-transcript-check&from=gh-call-summary-transcript-check) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-support-call-summary-transcript-check&from=gh-call-summary-transcript-check) describes the record we keep.
 
@@ -69,13 +69,13 @@ Testing in your environment means running it on past calls your quality lead has
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

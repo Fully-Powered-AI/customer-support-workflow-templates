@@ -1,6 +1,6 @@
-# Support escalation brief: an invented example
+# Support escalation brief: an example
 
-*Illustrative example with invented data.* The company, its customers, the team, the ticket and every date below are invented. Company X is an invented 25-person business that sells coffee beans to cafés through an online ordering portal. Its support team is led by a support lead; Marta is the support agent who holds the case. On Monday 2 November 2026 the support lead asks for a brief on one unresolved ticket, to hand to the platform team.
+*Illustrative example with sample data.* The company, its customers, the team, the ticket and every date below are illustrative. Company X is an illustrative 25-person business that sells coffee beans to cafés through an online ordering portal. Its support team is led by a support lead; Marta is the support agent who holds the case. On Monday 2 November 2026 the support lead asks for a brief on one unresolved ticket, to hand to the platform team.
 
 The inputs come first, in full, so the template can be run on them. The brief follows.
 

@@ -1,10 +1,10 @@
-# Support escalation brief: trial on the invented example
+# Support escalation brief: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs for this trial are the invented example in `public/example.md` (the date of the brief, the ticket's details, the 17-entry history export, the escalation policy, the related report and the support lead's choice). No client data was used.
+The inputs for this trial are the example in `public/example.md` (the date of the brief, the ticket's details, the 17-entry history export, the escalation policy, the related report and the support lead's choice). No client data was used.
 
 This is the second run. The first run, made earlier the same day, was on the instruction block as first written. After an independent review the instruction block was brought into line with the procedure (results shown only by later entries, promises and requests in date order, the customer's own date as "needed by", the stops for a missing export and a missing brief date) and the procedure gained four rules (stopgaps such as manual orders belong under the workaround, criteria joined by "or" are set out one line per alternative, the source label of a status or assignment entry, and a log described but not quoted). The first run's output was replaced by this one, because the instruction block it followed no longer exists in that form.
 
@@ -161,4 +161,4 @@ Prepared for the support lead. Nothing has been sent, no ticket has been changed
 
 **Against the reviewer checklist.** Items 1 to 11 hold for the run's output on the checks made here. A person still has to read the output against the ticket, as the checklist says.
 
-**What this does and does not show.** The template can be followed on a clean, invented ticket and gives a brief that matches the example in structure and in every count. It was run twice, in one product, on one set of inputs, and the second run was made by the model that edited the template. It does not show how the template behaves on messy exports, on the stop conditions or on a real ticket, and none of the acceptance tests was run.
+**What this does and does not show.** The template can be followed on a clean, illustrative ticket and gives a brief that matches the example in structure and in every count. It was run twice, in one product, on one set of inputs, and the second run was made by the model that edited the template. It does not show how the template behaves on messy exports, on the stop conditions or on a real ticket, and none of the acceptance tests was run.

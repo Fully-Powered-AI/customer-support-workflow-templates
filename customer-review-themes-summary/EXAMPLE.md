@@ -1,6 +1,6 @@
-# Customer review themes summary: an invented example
+# Customer review themes summary: an example
 
-*Illustrative example with invented data.* Bakery A is an invented bakery and café with two shops, the North shop and the South shop. Its reviews appear on two public review sites, called Site A and Site B here. The reviewers, the staff, the reviews and every number below are invented. On Tuesday 3 November 2026 the marketing lead runs the workflow template on October's reviews.
+*Illustrative example with sample data.* Bakery A is an illustrative bakery and café with two shops, the North shop and the South shop. Its reviews appear on two public review sites, called Site A and Site B here. The reviewers, the staff, the reviews and every number below are illustrative. On Tuesday 3 November 2026 the marketing lead runs the workflow template on October's reviews.
 
 The inputs come first, in full, so the workflow template can be run on them. The summary follows.
 

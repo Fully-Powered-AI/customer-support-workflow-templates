@@ -1,10 +1,10 @@
-# Customer review themes summary: one run on its invented example
+# Customer review themes summary: one run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-19
 
-The inputs are the invented example in `public/example.md`: the settings, the theme list, last period's summary and the twenty-row reviews export for Bakery A. No client data was used. The run was made by an assistant that had not written the template. It followed the instruction block and the output format in the member template, using only those inputs, and wrote its summary before it looked at the published example's output. It was then compared with that output and with the reviewer checklist. Nothing was posted, sent or changed.
+The inputs are the example in `public/example.md`: the settings, the theme list, last period's summary and the twenty-row reviews export for Bakery A. No client data was used. The run was made by an assistant that had not written the template. It followed the instruction block and the output format in the member template, using only those inputs, and wrote its summary before it looked at the published example's output. It was then compared with that output and with the reviewer checklist. Nothing was posted, sent or changed.
 
 ## What came out
 
@@ -110,7 +110,7 @@ R-207 (Site A, 2026-10-09): names "Josh".
 - **Against the published example, the figures and choices matched.** Row counts, ratings, averages, the four set-apart reviews and their matters, the five themes with their tones, review IDs, locations, last-period counts and quoted lines, the single review outside a theme, the question about R-213, the eleven days-waiting figures, the initials and the two names in the manager's note were the same. The differences were in wording only: the reader and role names are lower case in the run ("marketing lead") and capitalised or given with "the" in the example; the example's set-apart descriptions are shorter, and the run's also mention the injector pen in R-205 and the reviewer's "taking this further" in R-211. The format did not then say how to write roles, and does not say how long a description should be.
 - **No fact appeared that is not in the inputs,** in either output. The example's closing paragraph adds arithmetic (ten reviews in two themes, 24 places in themes); it adds up from the inputs.
 - **Where the instructions needed a judgment.** Each is a place another run, or another person, could reasonably go another way:
-  1. *"Whose own words name the theme."* For Staff friendliness the run quoted R-206 ("Ellie at the counter remembered my order"), which is about staff but never says "friendly" (the name is from the invented input; the recorded output shows it as "[staff member]"). R-210 says "Friendly team" in so many words and is later in date. The instruction can be read either way.
+  1. *"Whose own words name the theme."* For Staff friendliness the run quoted R-206 ("Ellie at the counter remembered my order"), which is about staff but never says "friendly" (the name is from the sample input; the recorded output shows it as "[staff member]"). R-210 says "Friendly team" in so many words and is later in date. The instruction can be read either way.
   2. *Quoting from a low-rated review.* The Bread and pastry line comes from R-202, a 2-star review whose main complaint is the queue. The rule (earliest review on the larger side) produces this correctly, but the line sits beside a low rating and a reader may wonder.
   3. *"Taking this further" (R-211).* It is not on the list of legal-threat words (lawyer, court, suing, legal action, regulator). The run named only discrimination. A reader may want it flagged as a possible threat, or a question asked.
   4. *Waiting for a table.* R-209 ("Forty minutes for a table") was placed under Queue and wait time. Last period's list had a Seating theme (2 reviews) that nothing this month was placed under. A different reader could have put R-209 under Seating, which would have changed two themes.
@@ -119,7 +119,7 @@ R-207 (Site A, 2026-10-09): names "Josh".
   7. *Tone is per theme, not per rating.* R-202 is a 2-star review sitting in a Praised theme because its words about pastries are positive. The definition of tone says this, but the table of counts and the theme list can look inconsistent side by side.
   8. *Date style.* The header uses "3 November 2026" and the lists use 2026-10-06. The format does not say which to use where.
 - **Instructions that read clearly.** The tie-break for Mixed themes, the one-decimal half-up rule, the days-waiting count, the initials rule, the stop conditions and the "nothing else" limit on the manager's note were followed without any guess.
-- **What this trial does not show.** It is one run, by one model, on one small invented export with no card numbers, no addresses to the assistant and no unreadable headers. The template's ten acceptance tests were not run; the run covers the ordinary-month case, the allergic reaction, the lawyer, the staff-named review, the mixed-theme tie and the replied-with-no-date case, because the invented data contains them. The unknown-header, no-last-summary, fake-review and draft-a-reply cases were not tried. The run has not shown how a different model or a larger export behaves, or whether a person would accept the themes.
+- **What this trial does not show.** It is one run, by one model, on one small sample export with no card numbers, no addresses to the assistant and no unreadable headers. The template's ten acceptance tests were not run; the run covers the ordinary-month case, the allergic reaction, the lawyer, the staff-named review, the mixed-theme tie and the replied-with-no-date case, because the sample data contains them. The unknown-header, no-last-summary, fake-review and draft-a-reply cases were not tried. The run has not shown how a different model or a larger export behaves, or whether a person would accept the themes.
 
 ## Edits that followed
 
